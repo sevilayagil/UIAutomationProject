@@ -23,7 +23,10 @@
 
 hs_err_pid*
 
-/src/test/java/screenshot/
-/target/
+.gitignore/src/test/java/screenshot/
+.gitignore/target/
 .idea
-/src/test/java/steps/User
+.gitignore/src/test/java/steps/User
+/target/
+/src/test/java/screenshot/
+/src/test/resources/chromedriver.exe
